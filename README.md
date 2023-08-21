@@ -5,7 +5,7 @@ Make your life a bit easier with these must-have aliases for your terminal!
 
 ## Installation
 
-### Copy the content of the `.bashrc` file [here][.bashrc]
+### Copy the content of the [.bashrc file]: .bashrc
 
 - Open the `.bashrc` file for editing:
    - On Linux: `vim ~/.bashrc`
