@@ -7,7 +7,7 @@ Make your life a bit easier with these must-have aliases for your terminal!
 
 ## Installation
 
-1. Copy the content of the `.bashrc` file (https://raw.githubusercontent.com/gurelbs/useful-aliases/master/.bashrc)[here]
+1. Copy the content of the `.bashrc` file [https://raw.githubusercontent.com/gurelbs/useful-aliases/master/.bashrc](here)
 
 2. Open the `.bashrc` file for editing:
    - On Linux: `vim ~/.bashrc`
