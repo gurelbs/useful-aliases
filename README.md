@@ -1,5 +1,3 @@
-Sure, here's the `README.md` file for the provided text:
-
 ```markdown
 # Aliases for Easier Workflow
 
@@ -7,24 +5,24 @@ Make your life a bit easier with these must-have aliases for your terminal!
 
 ## Installation
 
-1. Copy the content of the `.bashrc` file
+- Copy the content of the `.bashrc` file
 [here](./.bashrc)
 
-2. Open the `.bashrc` file for editing:
+- Open the `.bashrc` file for editing:
    - On Linux: `vim ~/.bashrc`
    - On macOS: `vim ~/.zshrc`
 
-3. Press `i` to enter INSERT mode.
+- Press `i` to enter INSERT mode.
 
-4. Paste the copied content (use Ctrl + Shift + V).
+- Paste the copied content (use Ctrl + Shift + V).
 
-5. Press the `Esc` key to exit INSERT mode.
+- Press the `Esc` key to exit INSERT mode.
 
-6. Save and exit the editor by typing `:wq!`.
+- Save and exit the editor by typing `:wq!`.
 
-7. Run: `source ~/.bashrc`
+- Run: `source ~/.bashrc`
 
-8. You're DONE!
+- You're DONE!
 
 ## Usage
 
