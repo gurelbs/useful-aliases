@@ -19,6 +19,7 @@ alias gp='git push'
 alias gs='git status'
 alias gd='git diff'
 alias gco='git checkout'
+alias grao='git remote add origin'
 
 # Additional shortcuts
 alias srcbrc='source ~/.bashrc'
