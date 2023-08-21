@@ -7,12 +7,22 @@ alias l='ls -CF'
 alias c='clear'
 alias grep='grep --color=auto'
 
+# Navigation - Nice to Have
+alias goto="pushd"
+alias goback="popd"
+
 # Git shortcuts
+alias gi='git init'
 alias ga='git add'
 alias gc='git commit'
+alias gp='git push'
 alias gs='git status'
 alias gd='git diff'
 alias gco='git checkout'
+
+# Additional shortcuts
+alias srcbrc='source ~/.bashrc'
+alias showbrc='cat ~/.bashrc'
 
 # Docker shortcuts
 alias dps='docker ps'
